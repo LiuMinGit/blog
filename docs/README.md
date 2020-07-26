@@ -1,9 +1,9 @@
 ---
 home: true
-# heroImage: /hero.png
+heroImage: /blogs.jfif
 heroText: 技术博客
 tagline: 不定期更新
-actionText: 快速上手 →
+actionText: start →
 actionLink: /about
 features:
 - title: 坚持
