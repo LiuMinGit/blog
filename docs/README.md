@@ -1,10 +1,10 @@
 ---
 home: true
-heroImage: /blogs.jfif
+heroImage: /blog.jpg
 heroText: 技术博客
 tagline: 不定期更新
 actionText: start →
-actionLink: /about
+actionLink: /all/html/
 features:
 - title: 坚持
   details: 不忘初心,坚持到底
